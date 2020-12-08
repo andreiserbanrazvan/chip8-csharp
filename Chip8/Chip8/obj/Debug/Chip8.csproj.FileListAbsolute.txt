@@ -1,0 +1,7 @@
+C:\Dev\chip8\Chip8\Chip8\bin\Debug\Chip8.exe.config
+C:\Dev\chip8\Chip8\Chip8\bin\Debug\Chip8.exe
+C:\Dev\chip8\Chip8\Chip8\bin\Debug\Chip8.pdb
+C:\Dev\chip8\Chip8\Chip8\obj\Debug\Chip8.csproj.CoreCompileInputs.cache
+C:\Dev\chip8\Chip8\Chip8\obj\Debug\Chip8.exe
+C:\Dev\chip8\Chip8\Chip8\obj\Debug\Chip8.pdb
+C:\Dev\chip8\Chip8\Chip8\obj\Debug\Chip8.csprojAssemblyReference.cache
